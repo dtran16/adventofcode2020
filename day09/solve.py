@@ -1,4 +1,3 @@
-
 f = open("input.in", 'r')
 arr = f.read().split('\n')[:-1]
 
